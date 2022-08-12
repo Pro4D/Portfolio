@@ -1,6 +1,6 @@
 # Portfolio
 
-At the request of some clients, the repositories of all my plugins are not public, however if you would like to view the works that are public you can do so on my [GitHub Page](https://github.com/Pro4D)
+At the request of some clients, the repositories of their commissioned plugins may be private, however if you would like to view the works that are public you can do so on my [GitHub Page](https://github.com/Pro4D)
 
 #### Due to technical difficulties and/or not being able to properly showcase certain plugins to their fullest extent with just a video/picture, I've had to make this written list of all the plugin development work I've done:
 
